@@ -34,8 +34,8 @@ And then you can make your next move, using the keyboard, as described.
 PC vs PC
 --------
 
-This is the interesting part, although be warned that it is slow. You can
-let the PC try to solve the game by running:
+This is the interesting part, although be warned that it is slow. Really
+slow. You can let the PC try to solve the game by running:
 
     ?- ai.
 
