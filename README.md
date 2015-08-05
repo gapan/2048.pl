@@ -93,5 +93,5 @@ for every move. Here are the first 3 moves for a game:
 L, R, U and D values are the scores for moving left, right, up or down,
 respectivelly.
 
-Needless to say that there exist a lot of faster algorithms that solve
+Needless to say that there exist a lot of faster implementations that solve
 the game a lot more efficiently that this does. 
